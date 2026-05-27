@@ -1,5 +1,13 @@
-# Supplementary Material
-Supplementary material for my PhD thesis. Here you can find:
- - The STORMS checklist regarding microbiome data reporting
- - The IDs to replicate the GM analysis on metabolic health and obesity phenotypes
+# Supplementary Material — PhD Thesis
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Supplementary material accompanying my PhD thesis entitled "Precision nutrition in obesity through image-based dietary assessment and microbial network analysis".
+
+## Contents
+
+| File | Description |
+|------|-------------|
+| [`data/STORMS_checklist.xlsx`](data/STORMS_checklist.xlsx) | Completed STORMS checklist for microbiome reporting. |
+| [`data/MHO_Analysis_IDs.xlsx`](data/MHO_Analysis_IDs.xlsx) | Subject IDs, run accession numbers, source studies and phenotype labels used in the GM analysis for metabolic health and obesity phenotypes. |
 
